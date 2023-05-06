@@ -10,11 +10,9 @@ Els llenguatges que més utilitzo són C++, C# i C. M'agrada fer projectes per A
 
 Aquí teniu algunes [estadístiques](https://github.com/anuraghazra/github-readme-stats) del meu GitHub i els llenguatges que més utilitzo:
 
-<!-- | Estadístiques | Llenguatges que més utilitzo |
+| GitHub en nùmeros |  |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=4Xsample&show_icons=true&theme=synthwave" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Xsample&theme=synthwave&layout=compact" height="200px"> | --> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=4Xsample&show_icons=true&theme=synthwave&custom_title=Les+meves+estad%C3%ADstiques&count_private=true&include_all_commits=true" height="200px"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Xsample&theme=synthwave&layout=compact&custom_title=Llenguatges+que+m%C3%A9s+utilitzo" height="200px"> 
+| <img src="https://github-readme-stats.vercel.app/api?username=4Xsample&show_icons=true&theme=synthwave&custom_title=Les+meves+estad%C3%ADstiques&count_private=true&include_all_commits=true" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Xsample&theme=synthwave&layout=compact&custom_title=Llenguatges+que+m%C3%A9s+utilitzo" height="200px"> |
 
 ## Els meus streams 🎥
 
