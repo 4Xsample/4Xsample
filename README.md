@@ -6,7 +6,7 @@ Sóc un streamer català i m'agrada la programació i l'electrònica, però no s
 
 En aquest perfil de GitHub podreu trobar el poc que aconsegueixo juntar de codi que obtinc d'una banda o altre. No espereu res massa espectacular, però potser us pot servir d'inspiració o d'entreteniment. 🤷‍♂️
 
-Els llenguatges que més utilitzo són C++, C# i C. M'agrada fer projectes per Arduino, coses per el bot Streamer.bot, alguns scripts cutres en Duckyscript i algunes guies de com fer coses. També m'interessa l'electrònica i la robòtica, i faig servir Raspberry Pi i contenidors Docker per crear dispositius intel·ligents. 👨‍💻
+Els llenguatges que més utilitzo són C++, C# i C. M'agrada fer projectes per Arduino, coses per el bot Streamer.bot, alguns scripts cutres en Duckyscript i algunes guies de com fer coses. També m'interessa l'electrònica i la robòtica, i faig servir Raspberry Pi i contenidors Docker per que son un vici. 👨‍💻
 
 Aquí teniu algunes [estadístiques](https://github.com/anuraghazra/github-readme-stats) del meu GitHub i els llenguatges que més utilitzo:
 
